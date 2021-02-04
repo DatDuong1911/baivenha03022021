@@ -1,0 +1,12 @@
+Bài 1: hãy tạo một model có tên là post có cột như sau: content, title, comment
+	1.1 Tạo 2 bản ghi mới
+	1.2 Tìm toàn bộ bài post
+	1.3 In ra 1 bài post theo điều kiện id
+	1.4 Cập nhật 1 giá trị của content theo 1 id 
+Bài 2: Hãy tạo một model có tên là user có các cột như sau: username, password, email, age, school
+ 2.1 tạo 5 bản ghi với nội dung bất kì
+ 2.2 Tìm ra 1 bản ghi theo username, password ( nếu không tim thấy thì in ra thông báo là không tìm thấy, còn tìm thấy thì in ra thông báo )
+ 2.3 Xóa 1 bản ghi theo  id
+ 2.4 Thực hiện tìm và in ra giới hạn chỉ in ra 3 bản ghi 
+Bài 3: (Nâng cao) 
+Ghép bảng user của bài 2 vào server và tạo ra các api tương ứng với yêu cầu của bài 2, Lấy giá trị của người dùng nhập lên để tạo các yêu cầu chứ không fix cứng giá trị như bài 2 nữa
